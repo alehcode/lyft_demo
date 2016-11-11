@@ -1,0 +1,77 @@
+h1{
+	font-size: 2em;
+	position: relative;
+	text-align: center;
+	
+}
+p{
+	text-align: center;
+	position: relative;
+}
+.go{
+	font-size: 1.5em;
+	position: absolute;
+	margin-top: 40px;
+	z-index: 100;
+	color: black;
+}
+.go:hover{
+	text-decoration: none;
+}
+.linea{
+	width: 100%;
+	background-color: #c4c4c4;
+	height: 1px;
+	margin-bottom: 20px;
+}
+footer{
+	margin-top: 80px;
+	text-align: center;
+}
+.next{
+	width: 90%;
+	height: 50px;
+	background-color: #ff00bf;
+	color: white;
+	font-size: 2em;
+	border: none;
+	border-radius: 10px;
+}
+.border{
+	border-right: none;
+
+}
+.borderr{
+	border-left: none;
+}
+.flecha{
+	font-size: 0.5em;
+}
+h5{
+	text-align: center;
+}
+/* *******VERIFY CSS******* */
+.verifyCod{
+	text-align: center;
+	margin-top: 35px;
+}
+.code{
+	width: 30px;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin: 15px 0px;
+    text-align: center;
+    font-size: 1.5em;
+}
+.resend{
+	background: none;
+	border-color: 1px solid black;
+	height: 50px;
+	width: 170px;
+	border-radius: 5px;
+	font-size: 1.5em;
+}
+.spacio{
+	margin-bottom: 20px;
+}
